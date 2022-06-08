@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Aqua App**
 
-- 📫 How to reach me **adeolusegun99@g,ail.com**
+- 📫 How to reach me **adeolusegun99@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
