@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeolu Oluwasegun David</h1>
 <h3 align="center">A passionate web frontend and mobile developer from Nigeria. I speak Javascript, Kotlin and their derivatives(Frameworks)</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://media1.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=790b76119f05a4cefced5b3ea28738c007bd409a388881b8&rid=giphy.gif&ct=g”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moxie99&label=Profile%20views&color=0e75b6&style=flat" alt="moxie99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moxie99" alt="moxie99" /></a> </p>
