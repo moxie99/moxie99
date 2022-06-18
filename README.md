@@ -1,3 +1,4 @@
+<!--![My Custom Banner](https://commons.wikimedia.org/wiki/File:CustomBanner.jpg)-->
 <h1 align="center">Hi 👋, I'm Adeolu Oluwasegun David</h1>
 <h3 align="center">A passionate web frontend and mobile developer from Nigeria. I speak Javascript, Kotlin and their derivatives(Frameworks)</h3>
 
