@@ -1,6 +1,6 @@
 <!--![My Custom Banner](https://commons.wikimedia.org/wiki/File:CustomBanner.jpg)-->
 <h1 align="center">Hi 👋, I'm Adeolu Oluwasegun David</h1>
-<h3 align="center">A passionate web frontend and mobile developer from Nigeria. I speak Javascript, Kotlin and their derivatives(Frameworks)</h3>
+<h3 align="center">A passionate web and mobile applications. I am platform-agnostic working on native and hybrid environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moxie99&label=Profile%20views&color=0e75b6&style=flat" alt="moxie99" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adeoluoluwaseg3" target="blank"><img src="https://img.shields.io/twitter/follow/adeoluoluwaseg3?logo=twitter&style=for-the-badge" alt="adeoluoluwaseg3" /></a> </p>
 
-- 🔭 I’m currently working on **Aqua App**
+- 🔭 I’m currently working on **Stanbic IBTC Mobile Apps**
 
 - 📫 How to reach me **adeolusegun99@gmail.com**
 
@@ -25,6 +25,7 @@
 <a href="https://hashnode.com/https://hashnode.com/@moxiedav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@moxiedav" height="30" width="40" /></a>
 <a href="https://medium.com/@adeolusegun99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adeolusegun99" height="30" width="40" /></a>
 <a href="/https://hashnode.com/@moxiedav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@moxiedav" height="30" width="40" /></a>
+<a href="https://portfolioprojectforverceldeployemnt.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/moxie99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
