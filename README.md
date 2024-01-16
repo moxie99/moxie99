@@ -1,6 +1,6 @@
 <!--![My Custom Banner](https://commons.wikimedia.org/wiki/File:CustomBanner.jpg)-->
 <h1 align="center">Hi 👋, I'm Adeolu Oluwasegun David</h1>
-<h3 align="center">A passionate web and mobile applications. I am platform-agnostic working on native and hybrid environments.</h3>
+<h3 align="center">A passionate web and mobile applications Software Engineer. I love learning and building</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moxie99&label=Profile%20views&color=0e75b6&style=flat" alt="moxie99" /> </p>
 
